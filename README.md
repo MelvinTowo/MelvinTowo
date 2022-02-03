@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MelvinTowo
-- 👀 I’m interested in Front end and app design and development
+- 👀 I’m interested in Front-end, app design and web development
 - 🌱 I’m currently learning Java script and polishing my python skills
-- 💞️ I’m looking to collaborate on websites, mobile or desktop applications and anything front end. 
+- 💞️ I’m looking to collaborate on websites, mobile or desktop applications and anything front end to give me more experience 
 - 📫 How to reach me via my email melvintowo@gmail.com 
 
 <!---
